@@ -1,5 +1,4 @@
 let turn="X";
-console.log(turn);
 let win=false;
 let pmesage=document.getElementById('mesage');
 
